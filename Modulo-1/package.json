@@ -1,0 +1,12 @@
+{
+  "name": "curso_node_js",
+  "version": "1.0.0",
+  "description": "meu curso de node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev",
+    "dev": "node index.js"
+  },
+  "author": "Erick Castilho Mestre",
+  "license": "ISC"
+}

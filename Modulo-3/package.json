@@ -1,0 +1,19 @@
+{
+  "name": "modulo-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Castilho Mestre",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "nock": "^13.2.9"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
